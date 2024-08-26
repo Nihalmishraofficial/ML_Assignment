@@ -34,7 +34,7 @@ Data splitting is a fundamental step in machine learning pipelines to ensure tha
 ## 3. Implementing Linear Regression
 
 ### Overview:
-This program focuses on implementing linear regression on the Iris dataset to predict one of the flower's features based on the others. Linear regression is a simple and commonly used algorithm that models the relationship between a dependent variable and one or more independent variables.
+This program focuses on implementing linear regression on predictiing the salary of the user and mean squared error based on year of experience . Linear regression is a simple and commonly used algorithm that models the relationship between a dependent variable and one or more independent variables.
 
 ### Key Steps:
 - **Model Selection:** We choose linear regression as our model, which assumes a linear relationship between the dependent and independent variables.
@@ -42,6 +42,6 @@ This program focuses on implementing linear regression on the Iris dataset to pr
 - **Model Evaluation:** After training, the model is tested on the testing set to evaluate its predictive performance. Metrics such as Mean Squared Error (MSE) or R-squared are used for evaluation.
 
 ### Purpose:
-The purpose of this program is to implement and understand the workings of linear regression, a fundamental machine learning algorithm. By predicting one feature of the Iris dataset based on others, we can gain insights into the linear relationships within the data.
+The purpose of this program is to implement and understand the workings of linear regression, a fundamental machine learning algorithm. By predicting salary based on experience ,we can gain insights into the linear relationships within the data.
 
 ---
